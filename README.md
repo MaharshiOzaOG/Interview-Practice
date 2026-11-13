@@ -112,8 +112,12 @@ Hardware / RTL / DV / emulation interview practice. Every file is **one self-con
 |---|---|---|
 | 01 | [Parse a UVM simulation/emulation log](cpp/08_parsing_automation/01_log_first_error.cpp) | Medium |
 
+## SystemVerilog / UVM
+
+- [Reference Model of DUT](sv/refmodel/README.md): 5 concept-heavy problems (polymorphic predictor, OOO AXI scoreboard, cycle-aware checks, DPI-C, analysis FIFO) + 7 practice models (ALU/MAC, FIFO, CSR, memory, arbiter, timer, interrupt controller)
+
 ## Coming later
 
 - RTL design (SystemVerilog)
-- Design verification (UVM, SVA, coverage)
+- More design verification (SVA, coverage)
 - Python / shell automation
